@@ -1,4 +1,4 @@
-// algoritmo "Ordenação de vetor em ordem decrescente"
+// algoritmo "Ordenação de vetor em ordem decrescente" - EXERCÌCIO 1
 programa
 {
 	
