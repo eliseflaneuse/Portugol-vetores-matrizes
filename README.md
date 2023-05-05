@@ -1,4 +1,4 @@
-# Portugol-vetores-matrizes
+# Portugol Vetores e Matrizes
 Prática no Portugal. Exercício da Trilha Zero INTRO-TECH-6 da Generation T-65 Full Stack Java.
 
 Atividades - Vetores:
