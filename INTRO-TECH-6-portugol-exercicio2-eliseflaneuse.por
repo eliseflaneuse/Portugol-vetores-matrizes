@@ -47,13 +47,13 @@ programa
 		limpa()
 
 		// Todos os elementos nos índices ímpares do vetor 
-       	escreva("\n\nElementos nos índices ímpares do vetor:\n")
+       		escreva("\n\nElementos nos índices ímpares do vetor:\n")
 	        para(i = 1; i < 10; i+=2)
 	        {
 	            escreva(vetor[i], " ")
 	        }
 
-	     // Todos os elementos do vetor que são números pares
+	     	// Todos os elementos do vetor que são números pares
 		escreva("\n\nTodos os elementos pares do vetor:\n")
 	        para(i = 0; i < 10; i++)
 	        { 
@@ -62,7 +62,7 @@ programa
 	        		}     
 	        }
 
-	     // A Soma de todos os elementos do vetor
+	       // A Soma de todos os elementos do vetor
 		escreva("\n\nSoma de todos os elementos do vetor:\n")
 	        para(i = 0; i < 10; i++)
 	        {	
@@ -80,6 +80,7 @@ programa
 		
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
